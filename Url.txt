@@ -1,0 +1,1 @@
+http://proje-webse-wi3wpyibdmll-564558227.us-west-2.elb.amazonaws.com/
