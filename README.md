@@ -1,4 +1,5 @@
 # Deploy-a-high-availability-web-app-using-CloudFormation
+<img src="Yellow Blue and Orange Abstract Patterns Buyer Presentation Listing Presentation (2).jpg"></img>
 
 ## In this project : 
 >I’ll deploy web servers for a highly available web app using CloudFormation. Write the code that creates and deploys the infrastructure and application for an Instagram-like app from the ground up. I will begin with deploying the networking components, followed by servers, security roles and software. 
