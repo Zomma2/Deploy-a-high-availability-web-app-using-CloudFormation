@@ -5,5 +5,5 @@
 >So, for that reason, I have chosen a scenario where I deploy an application (Apache Web Server) and I also pick up code (JavaScript and HTML) from S3 Storage and deploy it in the appropriate folder on the web server.
 
 ### There will be two parts to this project:
-1.Diagram:  a diagram as a visual aid to understand the CloudFormation script.
-2.Script (Template and Parameters)
+1. Diagram:  a diagram as a visual aid to understand the CloudFormation script.
+2. Script (Template and Parameters)
